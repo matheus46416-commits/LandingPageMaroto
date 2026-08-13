@@ -10,7 +10,15 @@ body {
     background-color: rgb(55, 55, 206);
 }
 
+.hero{
+    /*não sei centralizar div ;-;*/
+    display:flexbox;
+    justify-content: center;
+}
+
 .sinopse{
     background-color: black;
     color: white;
+    border: 10px;
+    border-color: rgb(221, 182, 10);
 }
