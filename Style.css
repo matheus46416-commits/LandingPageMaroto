@@ -13,14 +13,17 @@ body {
 }
 
 .introducao{
-    display:flexbox;
+    display:flex;
     justify-content: center;
+    margin:auto;
+    align-items: center;
 }
 
 .hero{
-    /*não sei centralizar div ;-;*/
-    display:flexbox;
+    display:flex;
     justify-content: center;
+    margin:auto;
+    align-items: center;
 }
 
 .sinopse{
