@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(221, 182, 10);
+}
+
+h2 {
+    color:rgb(27, 163, 163);
+}
+
+body {
+    background-color: rgb(55, 55, 206);
+}
+
+.sinopse{
+    background-color: black;
+    color: white;
+}
