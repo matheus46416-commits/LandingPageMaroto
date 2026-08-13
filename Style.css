@@ -1,13 +1,20 @@
 h1 {
     color: rgb(221, 182, 10);
+    size: 50em;
 }
 
 h2 {
     color:rgb(27, 163, 163);
+    size: 25em;
 }
 
 body {
     background-color: rgb(55, 55, 206);
+}
+
+.introdução{
+    display:flexbox;
+    justify-content: center;
 }
 
 .hero{
