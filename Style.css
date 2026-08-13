@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(221, 182, 10);
+    size: 50em;
+}
+
+h2 {
+    color:rgb(27, 163, 163);
+    size: 25em;
+}
+
+body {
+    background-color: rgb(55, 55, 206);
+}
+
+.introducao{
+    display:flexbox;
+    justify-content: center;
+}
+
+.hero{
+    /*não sei centralizar div ;-;*/
+    display:flexbox;
+    justify-content: center;
+}
+
+.sinopse{
+    background-color: black;
+    color: white;
+    border: 10px;
+    border-color: rgb(221, 182, 10);
+}
